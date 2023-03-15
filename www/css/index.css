@@ -1,0 +1,32 @@
+body {
+    
+   }
+   
+   header {
+   background-color: red;
+   color: #fcfcfc;
+   padding: 20px;
+   text-align: center;
+
+   }
+   
+    main {
+    margin: 20px;
+    }
+   
+   h2 {
+   font-size: 1.5rem;
+   text-align: center;
+   }
+  
+   p {
+    margin: 10px 0;
+    text-align: center;
+   }
+
+   footer { 
+    background-color: red;
+    color: #e7e7e7;
+    padding: 10px;
+    text-align: center;
+}
